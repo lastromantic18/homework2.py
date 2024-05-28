@@ -1,0 +1,5 @@
+count_of_homework = (12)
+spent_hours_of_homework = (1,5)
+name_of_cours = ("Python")
+time_for_1_task = (0,125)
+print("Курс:", name_of_cours, "всего задач:", count_of_homework, "затрачено часов:", spent_hours_of_homework, "среднее время выполнения:", time_for_1_task)
